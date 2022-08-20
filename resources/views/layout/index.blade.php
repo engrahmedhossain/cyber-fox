@@ -451,7 +451,7 @@
 <section class="container filter_gallery">
         <ul>
             <li class="list active" data-filter="all">All</li>
-            <li class="list" data-filter="mobile">Mobile</li>
+            <li class="list" data-filter="mobile">Mobilee</li>
             <li class="list" data-filter="camera">Camera</li>
             <li class="list" data-filter="watch">Watch</li>
             <li class="list" data-filter="shoe">Shoe</li>
